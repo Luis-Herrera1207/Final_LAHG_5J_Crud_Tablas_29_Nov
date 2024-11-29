@@ -6,3 +6,4 @@ Tienda Ropa CRUD tablas en django
 ![image](https://github.com/user-attachments/assets/2616735a-ca0a-4346-930b-8cb93c565911)
 ![image](https://github.com/user-attachments/assets/22a81a63-ab56-4c4a-ad4b-9786839e960b)
 ![image](https://github.com/user-attachments/assets/9a21b747-d326-4d7f-b050-c2ad18c2d563)
+![image](https://github.com/user-attachments/assets/9d6e5093-7ed7-4766-a787-266795e20aff)
